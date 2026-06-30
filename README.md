@@ -1,11 +1,4 @@
----
-title: Codebase QA Bot
-emoji: 🔍
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
----
+
 
 # 🔍 Codebase Q&A Bot — Retrieval-Augmented GitHub Repository Assistant
 
