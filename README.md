@@ -18,6 +18,15 @@ pinned: false
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.37-pink?style=flat-square)
 
 ---
+**🔗 [Live Demo](https://huggingface.co/spaces/siddhimalu/codebase-qa-bot)** · **[GitHub](https://github.com/siddhimalu21/codebase-qa-bot)**
+
+### Demo
+
+![Demo - dependency lookup with code](assets/demo1.png)
+
+![Demo - honest answer when info isn't in context](assets/demo2.png)
+
+
 
 ## 🚀 What it does
 
