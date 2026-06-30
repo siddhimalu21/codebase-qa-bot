@@ -43,7 +43,7 @@ Example questions:
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="assets/Codebase Q&A Bot.png" alt="Codebase Q&A Bot" width="400"/>
+  <img src="assets/architecture.png" alt="Codebase Q&A Bot" width="400"/>
 </p>
 
 ---
