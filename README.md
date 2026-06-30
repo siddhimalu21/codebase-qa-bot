@@ -143,6 +143,14 @@ REPOS_PATH=./data/repos
 
 ### Run the app
 
+
+### Option 1: Try the live demo (recommended)
+
+Visit the deployed app — no installation needed:
+
+**[https://huggingface.co/spaces/siddhimalu/codebase-qa-bot](https://huggingface.co/spaces/siddhimalu/codebase-qa-bot)**
+
+### Option 2: Run locally
 ```bash
 streamlit run app.py
 ```
