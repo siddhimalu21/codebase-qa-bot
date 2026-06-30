@@ -1,3 +1,12 @@
+---
+title: Codebase QA Bot
+emoji: 🔍
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
 # 🔍 Codebase Q&A Bot — Retrieval-Augmented GitHub Repository Assistant
 
 > Ask natural language questions about any GitHub codebase and get precise answers with exact file and line citations.
